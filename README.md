@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kokicode21
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Applied Data Science
-- 💞️ I’m looking to collaborate on Disaster Management and Climate Change
+- 👀 I’m interested in developing Satellite electronics systems ,data science and machine learning,devops
+- 🌱 
+- 💞️ I’m looking to collaborate in satellite subsytem development and devops
 - 📫 How to reach me cmadhaure@gmail.com
 
 <!---
